@@ -1,5 +1,5 @@
 # roboot
-一个聊天机器人-之所以叫roboot是因为比较特别
+一个聊天机器人-之所以叫roboot是因为比普通机器人更智障
 
 usage: roboot [-h] [-q Q]
 
