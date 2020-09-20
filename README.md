@@ -1,4 +1,4 @@
-# roboot
+# robot
 一个聊天机器人
 
 usage: roboot [-h] [-q Q]
